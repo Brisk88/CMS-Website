@@ -103,7 +103,7 @@ nav ul {
 }
 
 nav a {
-    display: block;
+    display: fixed;
     margin-bottom: 10px;
     padding: 10px 0;
 
