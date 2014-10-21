@@ -234,7 +234,8 @@ nav a:hover {
 
     nav {
         float: right;
-        width: 38%;
+        width: 500px;
+        height: 150px;
     }
 
 /* ============
