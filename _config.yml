@@ -1,0 +1,15 @@
+title: My Jekyll Sit
+
+#url: "http://0.0.0.0:4000/My Jekyll Website"
+url: "http://brisk88.github.io/CMS-Website"
+baseurl: 
+
+permalink: pretty
+
+collections:
+    portfolio:
+        output: true
+    gallery:
+        output: true
+    altBlog:
+        output: true
