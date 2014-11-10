@@ -12,7 +12,11 @@ html {
     font-size: 1em;
     line-height: 1.4;
 }
-
+h1{
+	font-size: 15em;
+	font-style: oblique;
+	color: white;
+}
 ::-moz-selection {
     background: #b3d4fc;
     text-shadow: none;
