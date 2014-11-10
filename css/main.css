@@ -98,7 +98,7 @@ body {
    ============== */
 
 nav ul {
-    margin-top:120px;
+    margin-top:100px;
     padding-bottom: 0px;;
 }
 
@@ -110,9 +110,10 @@ nav a {
     text-align: center;
     text-decoration: none;
     font-weight: bold;
+    box-shadow: rgba(0,0,0,0.5)
 
     color: white;
-    background: #1d0a86;
+    background: #648ae1;
 }
 
 nav a:hover,
