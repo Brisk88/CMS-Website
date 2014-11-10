@@ -89,7 +89,7 @@ body {
     border-top: 20px solid #2687e3;
 }
 
-.footer-container,
+
 .main aside {
     background: #bee9f7;
 }
@@ -150,6 +150,7 @@ nav a:hover {
 .footer-container footer {
     color: white;
     padding: 20px 0;
+    background-image: url(../images/congruent_outline.png);
 }
 
 /* ===============
