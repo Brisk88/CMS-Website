@@ -76,6 +76,8 @@ body {
 
 .header-container {
     border-bottom: 20px solid #e44d26;
+    background-image: url(../images/congruent_outline.png);
+    
 }
 
 .footer-container,
