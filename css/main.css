@@ -147,12 +147,15 @@ nav a:hover {
     padding: 0px 5% 10px;
 }
 
-.footer-container footer {
+ .footer {
     color: white;
     padding: 20px 0;
-    background-image: url(../images/congruent_outline.png);
+    
 }
 
+.footer-container{
+	background-image: url(../images/congruent_outline.png);
+}
 /* ===============
     ALL: IE Fixes
    =============== */
