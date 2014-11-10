@@ -1,7 +1,7 @@
 title: My Jekyll Sit
 
 url: "http://0.0.0.0:4000/CMS-Website"
-#url: "http://brisk88.github.io/CMS-Website"
+url: "http://brisk88.github.io/CMS-Website"
 baseurl: /CMS-Website/
 
 permalink: pretty
