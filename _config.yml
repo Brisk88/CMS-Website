@@ -27,7 +27,7 @@ prose:
           value: "post"
       - name: "layout"
         field:
-        	label: "Layout"
+        label: "Layout"
           element: "text"
           value: "generic"
       - name: "title"
