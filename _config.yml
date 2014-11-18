@@ -1,7 +1,7 @@
-title: My Jekyll Sit
+title: My Jekyll Site
 
 url: "http://0.0.0.0:4000/CMS-Website"
-url: "http://brisk88.github.io/CMS-Website"
+#url: "http://brisk88.github.io/CMS-Website"
 baseurl: /CMS-Website/
 
 permalink: pretty
@@ -13,6 +13,18 @@ collections:
         output: true
     altBlog:
         output: true
+ 
+gems:
+- jemoji
+- jekyll-sitemap
+
+sitemap:
+    file: "/sitemap.xml"
+    include_posts:
+        - "/index.html"
+    change_frequency_name: "change_frequency"
+    priority_name: "priority"
+
         
 prose:
   siteurl: "http://brisk88.github.io/CMS-Website"
@@ -25,9 +37,8 @@ prose:
         field:
           element: "text"
           value: "post"
-	  - name: "layout"
+      - name: "layout"
         field:
-        label: "Layout"
           element: "text"
           value: "generic"
       - name: "title"
@@ -36,7 +47,6 @@ prose:
           label: "Title"
           placeholder: "Choose Tags"
           value: ""
-     
       - name: "tags"
         field:
           element: "multiselect"
