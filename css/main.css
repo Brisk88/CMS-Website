@@ -17,6 +17,13 @@ h1{
 	font-style: oblique;
 	color: white;
 }
+h2{
+	font-size: 3em;
+	font-style: oblique;
+	color: #384660;
+
+	
+}
 ::-moz-selection {
     background: #b3d4fc;
     text-shadow: none;
