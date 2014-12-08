@@ -1,6 +1,6 @@
 ---
 title: My Fist Portfolio Item
-layout: generic
+layout: default
 tag: cool-stuff
 author: Chris Briscoe
 ---	
